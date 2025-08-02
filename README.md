@@ -33,7 +33,7 @@ A Spring Boot-based digital wallet application that provides secure wallet manag
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/atakankaraman40/ingcase.git
 cd digitalwallet
 ```
 
@@ -100,7 +100,7 @@ For example:
 - `POST /api/v1/transactions/deposit` - Deposit money to wallet
 - `POST /api/v1/transactions/withdraw` - Withdraw money from wallet
 - `GET /api/v1/transactions/list` - List all transactions for a given customer and wallet
-- `PUT /api/v1/transactions/{id}` - Update transaction status
+- `PATCH /api/v1/transactions/{id}` - Update transaction status
 
 ### Request/Response Examples
 
