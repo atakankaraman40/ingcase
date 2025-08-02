@@ -34,7 +34,7 @@ A Spring Boot-based digital wallet application that provides secure wallet manag
 
 ```bash
 git clone https://github.com/atakankaraman40/ingcase.git
-cd digitalwallet
+cd ingcase
 ```
 
 ### 2. Build the Application
